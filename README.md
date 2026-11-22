@@ -53,4 +53,4 @@ The repository contains a curated **aggregate-only** public dataset in `outputs/
 
 **Data attribution:** Chen, D. (2012), *Online Retail II*, UCI Machine Learning Repository, [DOI: 10.24432/C5CG6D](https://doi.org/10.24432/C5CG6D), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). No separate open-source license has been selected for the original code in this repository.
 
-**Carlos Segura | CS Intelligence**
+**Carlos Segura**

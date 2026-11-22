@@ -53,4 +53,4 @@ El repositorio público contiene únicamente **resultados agregados** en `output
 
 **Fuente:** Chen, D. (2012), *Online Retail II*, UCI Machine Learning Repository, [DOI: 10.24432/C5CG6D](https://doi.org/10.24432/C5CG6D), licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). No se ha elegido una licencia de código abierto independiente para el código original del repositorio.
 
-**Carlos Segura | CS Intelligence**
+**Carlos Segura**

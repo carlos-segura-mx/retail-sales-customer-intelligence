@@ -12,7 +12,7 @@ import streamlit as st
 ROOT = Path(__file__).resolve().parent
 OUT = ROOT / "outputs"
 
-st.set_page_config(page_title="Retail Sales & Customer Intelligence | CS Intelligence", page_icon="📈", layout="wide")
+st.set_page_config(page_title="Retail Sales & Customer Intelligence | Carlos Segura", page_icon="📈", layout="wide")
 
 language = st.sidebar.radio("Idioma / Language", ["Español", "English"], horizontal=True)
 ES = language == "Español"
@@ -62,8 +62,8 @@ except (FileNotFoundError, KeyError, ValueError, pd.errors.ParserError) as exc:
 
 st.title(T("Inteligencia de ventas y clientes", "Retail Sales & Customer Intelligence"))
 st.caption(T(
-    "CS Intelligence | Online Retail II (UCI) | GBP | Datos históricos de 2009 a 2011",
-    "CS Intelligence | Online Retail II (UCI) | GBP | Historical data from 2009 to 2011"
+    "Carlos Segura | Online Retail II (UCI) | GBP | Datos históricos de 2009 a 2011",
+    "Carlos Segura | Online Retail II (UCI) | GBP | Historical data from 2009 to 2011"
 ))
 st.write(T(
     "**¿Qué productos y clientes merecen atención, y qué decisiones comerciales pueden evaluarse con los datos disponibles?**",
