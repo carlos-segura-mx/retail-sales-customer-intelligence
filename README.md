@@ -32,7 +32,7 @@ The case helps a planning team decide where to check product classifications, wh
 
 Run the bilingual Streamlit app from `app.py`. Its six sections cover executive results, product ABC, customer behavior, basket affinity, a product-review center and methodology.
 
-The public dashboard URL will be added only after the hosted app is deployed and inspected. A `dashboard.py` script was used in the earlier v1.4 prototype; `app.py` is the publication entry point.
+[Open the live Streamlit dashboard](https://retail-sales-customer-intelligence-pyazdmafnsbevcbqpoxmud.streamlit.app/). The Spanish overview has been visually confirmed from the deployment screenshot supplied by the project owner. The remaining tabs and English interface have automated smoke-test coverage but have not yet been visually reviewed in full. A `dashboard.py` script was used in the earlier v1.4 prototype; `app.py` is the publication entry point.
 
 ```bash
 python -m pip install -r requirements.txt
