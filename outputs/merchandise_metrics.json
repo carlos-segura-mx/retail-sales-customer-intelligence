@@ -1,0 +1,12 @@
+{
+  "positive_sales_gbp": 20972594.55,
+  "merchandise_candidate_gbp": 20107712.07,
+  "merchandise_candidate_share_pct": 95.88,
+  "non_merchandise_rule_gbp": 861682.5,
+  "review_required_gbp": 3199.98,
+  "candidate_codes": 4875,
+  "review_codes": 20,
+  "non_merchandise_rule_codes": 21,
+  "classification_rule_version": "v1.0 conservative heuristic, unverified stock master",
+  "caveat": "Candidate is not confirmed physical merchandise; flagged codes require manual validation; financial gross unchanged."
+}

@@ -1,0 +1,15 @@
+{
+  "cutoff": "2011-06-01",
+  "train_invoices": 27810,
+  "holdout_invoices": 11706,
+  "top_skus_selected_from_train": 100,
+  "train_pairs_min_30_baskets": 4363,
+  "holdout_screen_pairs": 2662,
+  "holdout_screen_rate_pct": 61.01,
+  "holdout_screen": "Train co-occurrence >=30, holdout co-occurrence >=20, train and holdout lift >=1.5. Exploratory screen, not statistical significance or causal uplift.",
+  "basket_universe": "All positive merchandise-candidate invoices in each period; SKU universe top 100 selected exclusively in training.",
+  "invoice_period_assignment": "Earliest positive merchandise line date per invoice.",
+  "train_positive_merchandise_sales_gbp": 13745077.38,
+  "holdout_positive_merchandise_sales_gbp": 6362634.69,
+  "caveat": "Temporal holdout shares the same retailer and changing assortment; no inventory, prices, margins or treatment outcomes."
+}

@@ -1,0 +1,19 @@
+{
+  "source_rows": 1067371,
+  "positive_sales_gbp": 20972594.55,
+  "cancellations_gbp": 1527041.43,
+  "net_convention_gbp": 19445553.12,
+  "return_to_gross_pct": 7.28,
+  "products_positive_sale": 4916,
+  "identified_customers_with_positive_sale": 5878,
+  "months": 25,
+  "quality_status_counts": {
+    "cancellation": 19493,
+    "cancellation_review": 1,
+    "negative_price": 5,
+    "positive_sale": 1041670,
+    "zero_price": 6202
+  },
+  "source": "Online Retail II, UCI Machine Learning Repository; original Excel, two worksheets",
+  "limitations": "Net convention is not audited revenue; returns not linked to originating sales; non-merchandise codes may distort product ABC."
+}

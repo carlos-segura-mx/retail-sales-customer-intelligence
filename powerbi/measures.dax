@@ -1,0 +1,7 @@
+// Draft measures; not opened or verified in Power BI Desktop.
+Gross Positive GBP = SUM(fact_transaction[gross_positive_gbp])
+Returns GBP = SUM(fact_transaction[returns_gbp])
+Net Convention GBP = SUM(fact_transaction[net_gbp])
+Positive Orders = CALCULATE(DISTINCTCOUNT(fact_transaction[invoice_id]), fact_transaction[status] = "positive_sale")
+Average Positive Order Value GBP = DIVIDE([Gross Positive GBP], [Positive Orders])
+Identified Customers = CALCULATE(DISTINCTCOUNT(fact_transaction[customer_id]), NOT(ISBLANK(fact_transaction[customer_id])))

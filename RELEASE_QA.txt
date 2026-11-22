@@ -1,0 +1,14 @@
+CASE-03 RELEASE QA (computed aggregate outputs)
+PASS | source line count
+PASS | positive sales = monthly
+PASS | positive sales = country
+PASS | positive sales = classification bridge
+PASS | candidate sales = ABC
+PASS | candidate sales = temporal partitions
+PASS | ABC shares = 100%
+PASS | net convention = gross minus cancellations
+PASS | holdout-screened count
+PASS | prioritized shortlist max 100
+PASS | no repeated SKU pairs in shortlist
+PASS | holdout screen thresholds
+PASS | train/holdout basket counts positive

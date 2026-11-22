@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.env
+.streamlit/secrets.toml
+.DS_Store
+*.log
+# Original and customer-level source datasets are intentionally private.
+data/
+*.csv.gz
+*.xlsx
+!CASE-03_Commercial_Intelligence_Executive.xlsx
