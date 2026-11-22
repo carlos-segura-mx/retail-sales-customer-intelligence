@@ -32,7 +32,7 @@ El caso ayuda a decidir qué clasificaciones de productos requieren verificació
 
 La aplicación bilingüe de Streamlit se ejecuta desde `app.py`. Tiene seis secciones: panorama ejecutivo, clasificación ABC, clientes, afinidades de compra, revisión de productos y metodología.
 
-Añadiremos el enlace público cuando el despliegue y la inspección visual estén confirmados. `dashboard.py` corresponde al prototipo anterior v1.4; `app.py` es el archivo principal de publicación.
+[Abrir el dashboard de Streamlit](https://retail-sales-customer-intelligence-pyazdmafnsbevcbqpoxmud.streamlit.app/). La portada en español ya se comprobó visualmente con la captura proporcionada por el titular. Las demás pestañas y la interfaz inglesa cuentan con pruebas automáticas de carga, pero aún no con una revisión visual completa. `dashboard.py` corresponde al prototipo anterior v1.4; `app.py` es el archivo principal de publicación.
 
 ```bash
 python -m pip install -r requirements.txt
