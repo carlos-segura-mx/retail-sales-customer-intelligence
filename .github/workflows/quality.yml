@@ -1,4 +1,4 @@
-name: CASE-03 public QA
+name: Retail Sales & Customer Intelligence QA
 on:
   push:
     branches: [main]
