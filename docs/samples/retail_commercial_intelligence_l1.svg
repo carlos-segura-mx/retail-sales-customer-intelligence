@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Retail Sales and Customer Intelligence commercial sample</title>
+<desc id="desc">Summary of verified historical metrics from the Online Retail II portfolio case.</desc>
+<rect width="960" height="600" fill="#ffffff"/>
+<text x="55" y="58" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#111111">Retail Sales &amp; Customer Intelligence</text>
+<text x="55" y="90" font-family="Arial, sans-serif" font-size="18" fill="#444444">Commercial sample | Muestra comercial</text>
+<rect x="55" y="130" width="400" height="110" rx="10" fill="#f3f3f3"/>
+<text x="80" y="170" font-family="Arial, sans-serif" font-size="17" fill="#555555">Positive classified sales</text>
+<text x="80" y="210" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#111111">£20.97M</text>
+<rect x="505" y="130" width="400" height="110" rx="10" fill="#f3f3f3"/>
+<text x="530" y="170" font-family="Arial, sans-serif" font-size="17" fill="#555555">Candidate merchandise sales</text>
+<text x="530" y="210" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#111111">£20.11M</text>
+<rect x="55" y="270" width="400" height="110" rx="10" fill="#f3f3f3"/>
+<text x="80" y="310" font-family="Arial, sans-serif" font-size="17" fill="#555555">Repeat purchasers</text>
+<text x="80" y="350" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#111111">4,234 / 5,852</text>
+<rect x="505" y="270" width="400" height="110" rx="10" fill="#f3f3f3"/>
+<text x="530" y="310" font-family="Arial, sans-serif" font-size="17" fill="#555555">High-spend, less-recent review group</text>
+<text x="530" y="350" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#111111">396</text>
+<rect x="55" y="410" width="850" height="90" rx="10" fill="#e9eef3"/>
+<text x="80" y="448" font-family="Arial, sans-serif" font-size="18" fill="#333333">ABC concentration</text>
+<text x="80" y="480" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#111111">1,035 A-class codes account for about 80% of candidate-merchandise positive sales</text>
+<text x="55" y="545" font-family="Arial, sans-serif" font-size="16" fill="#666666">Historical descriptive evidence. No product costs, verified inventory, churn prediction or causal uplift claim.</text>
+</svg>
